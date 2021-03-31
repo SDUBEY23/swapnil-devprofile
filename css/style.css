@@ -125,6 +125,21 @@ a{
     grid-template-columns: 4fr 3fr;
 }
 
+/*  */
+.projects .card .btn{
+    padding: 5px 10px;
+    margin: 0.5rem 1rem;
+    background-color: var(--primary-color);
+}
+
+.projects .card:hover{
+    transform: scale(1.02);
+}
+
+.projects .card .btn:hover{
+    transform: scale(1.02);
+}
+
 /* Footer */
 
 .footer .social a{
