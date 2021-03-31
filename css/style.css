@@ -132,9 +132,9 @@ a{
     background-color: var(--primary-color);
 }
 
-.projects .card:hover{
+/* .projects .card:hover{
     transform: scale(1.02);
-}
+} */
 
 .projects .card .btn:hover{
     transform: scale(1.02);
