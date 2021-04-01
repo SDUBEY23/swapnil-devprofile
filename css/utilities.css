@@ -129,6 +129,7 @@
     margin: 1.5rem 0;
 }
 
+
 .my-3{
     margin: 2rem 0;
 }
@@ -139,6 +140,11 @@
 
 .my-5{
     margin: 4rem 0;
+}
+
+/*  */
+.mx-2{
+    margin: 0 1.5rem;
 }
 /*  */
 .m-1{
