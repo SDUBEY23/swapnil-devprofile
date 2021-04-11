@@ -151,7 +151,7 @@ a {
 }
 
 /* Projects */
-.cloud .grid {
+.project-section .grid {
     grid-template-columns: 4fr 3fr;
 }
 
@@ -233,7 +233,7 @@ a {
     .showcase .grid,
     .stats .grid,
     .cli .grid,
-    .cloud .grid,
+    .project-section .grid,
     .projects-main .grid,
     .info-main .grid {
         grid-template-columns: 1fr;
